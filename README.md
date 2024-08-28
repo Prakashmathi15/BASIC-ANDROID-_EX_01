@@ -1,5 +1,3 @@
-
-
 # Ex.No:1 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 
@@ -148,6 +146,15 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 
+![Screenshot 2024-08-28 215626](https://github.com/user-attachments/assets/531b2bea-362d-48f1-b164-ff1f81191329)
+
+![Screenshot 2024-08-28 215647](https://github.com/user-attachments/assets/282178c3-34fc-4407-9afc-a5c39ae127b0)
+
+![Screenshot 2024-08-28 215712](https://github.com/user-attachments/assets/8cbeb223-2568-45a6-876d-9cdcb3b435bf)
+
+![Screenshot 2024-08-28 215731](https://github.com/user-attachments/assets/34c339cc-6026-4e3f-9c26-b9a973caea83)
+
+![Screenshot 2024-08-28 215753](https://github.com/user-attachments/assets/b48d4d03-b480-44cc-960a-d334690d999d)
 
 
 ## RESULT:
